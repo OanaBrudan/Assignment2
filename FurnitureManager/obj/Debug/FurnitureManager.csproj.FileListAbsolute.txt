@@ -1,0 +1,42 @@
+C:\Users\Brudan-Oana\Desktop\FirstAssigment\FurnitureManager\FurnitureManager\bin\Debug\FurnitureManager.exe.config
+C:\Users\Brudan-Oana\Desktop\FirstAssigment\FurnitureManager\FurnitureManager\obj\Debug\FurnitureManager.csprojResolveAssemblyReference.cache
+C:\Users\Brudan-Oana\Desktop\FirstAssigment\FurnitureManager\FurnitureManager\obj\Debug\FurnitureManager.LoginF.resources
+C:\Users\Brudan-Oana\Desktop\FirstAssigment\FurnitureManager\FurnitureManager\obj\Debug\FurnitureManager.OrdersF.resources
+C:\Users\Brudan-Oana\Desktop\FirstAssigment\FurnitureManager\FurnitureManager\obj\Debug\FurnitureManager.ProductsF.resources
+C:\Users\Brudan-Oana\Desktop\FirstAssigment\FurnitureManager\FurnitureManager\obj\Debug\FurnitureManager.Properties.Resources.resources
+C:\Users\Brudan-Oana\Desktop\FirstAssigment\FurnitureManager\FurnitureManager\obj\Debug\FurnitureManager.csproj.GenerateResource.Cache
+C:\Users\Brudan-Oana\Desktop\FirstAssigment\FurnitureManager\FurnitureManager\bin\Debug\FurnitureManager.exe
+C:\Users\Brudan-Oana\Desktop\FirstAssigment\FurnitureManager\FurnitureManager\bin\Debug\FurnitureManager.pdb
+C:\Users\Brudan-Oana\Desktop\FirstAssigment\FurnitureManager\FurnitureManager\bin\Debug\FurnitureManager.BL.exe
+C:\Users\Brudan-Oana\Desktop\FirstAssigment\FurnitureManager\FurnitureManager\bin\Debug\FurnitureManager.Models.exe
+C:\Users\Brudan-Oana\Desktop\FirstAssigment\FurnitureManager\FurnitureManager\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\Brudan-Oana\Desktop\FirstAssigment\FurnitureManager\FurnitureManager\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Brudan-Oana\Desktop\FirstAssigment\FurnitureManager\FurnitureManager\bin\Debug\FurnitureManager.BL.pdb
+C:\Users\Brudan-Oana\Desktop\FirstAssigment\FurnitureManager\FurnitureManager\bin\Debug\FurnitureManager.Models.pdb
+C:\Users\Brudan-Oana\Desktop\FirstAssigment\FurnitureManager\FurnitureManager\bin\Debug\MySql.Data.Entity.EF5.xml
+C:\Users\Brudan-Oana\Desktop\FirstAssigment\FurnitureManager\FurnitureManager\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\Brudan-Oana\Desktop\FirstAssigment\FurnitureManager\FurnitureManager\obj\Debug\FurnitureManager.exe
+C:\Users\Brudan-Oana\Desktop\FirstAssigment\FurnitureManager\FurnitureManager\obj\Debug\FurnitureManager.pdb
+C:\Users\Brudan-Oana\Desktop\FirstAssigment\FurnitureManager\FurnitureManager\obj\Debug\FurnitureManager.UsersF.resources
+C:\Users\Brudan-Oana\Desktop\FirstAssigment\FurnitureManager\FurnitureManager\bin\Debug\FurnitureManager.DAL.exe
+C:\Users\Brudan-Oana\Desktop\FirstAssigment\FurnitureManager\FurnitureManager\bin\Debug\FurnitureManager.DAL.pdb
+C:\Users\Brudan-Oana\Desktop\FirstAssigment\FurnitureManager\FurnitureManager\obj\Debug\FurnitureManager.LoginForm.resources
+E:\pt faculta\ps\SecondAssigment\FirstAssigment\FurnitureManager\FurnitureManager\bin\Debug\FurnitureManager.exe.config
+E:\pt faculta\ps\SecondAssigment\FirstAssigment\FurnitureManager\FurnitureManager\obj\Debug\FurnitureManager.exe
+E:\pt faculta\ps\SecondAssigment\FirstAssigment\FurnitureManager\FurnitureManager\obj\Debug\FurnitureManager.pdb
+E:\pt faculta\ps\SecondAssigment\SecondAssigment\FurnitureManager\FurnitureManager\bin\Debug\FurnitureManager.exe.config
+E:\pt faculta\ps\SecondAssigment\SecondAssigment\FurnitureManager\FurnitureManager\obj\Debug\FurnitureManager.exe
+E:\pt faculta\ps\SecondAssigment\SecondAssigment\FurnitureManager\FurnitureManager\obj\Debug\FurnitureManager.pdb
+E:\pt faculta\ps\SecondAssigment\SecondAssigment\FurnitureManager\FurnitureManager\obj\Debug\FurnitureManager.csprojResolveAssemblyReference.cache
+E:\pt faculta\ps\SecondAssigment\SecondAssigment\FurnitureManager\FurnitureManager\obj\Debug\FurnitureManager.Properties.Resources.resources
+E:\pt faculta\ps\SecondAssigment\SecondAssigment\FurnitureManager\FurnitureManager\obj\Debug\FurnitureManager.csproj.GenerateResource.Cache
+E:\pt faculta\ps\SecondAssigment\SecondAssigment\FurnitureManager\FurnitureManager\obj\Debug\FurnitureManager.View.LoginForm.resources
+E:\pt faculta\ps\SecondAssigment\SecondAssigment\FurnitureManager\FurnitureManager\obj\Debug\FurnitureManager.View.OrderForm.resources
+E:\pt faculta\ps\SecondAssigment\SecondAssigment\FurnitureManager\FurnitureManager\obj\Debug\FurnitureManager.View.ProductForm.resources
+E:\pt faculta\ps\SecondAssigment\SecondAssigment\FurnitureManager\FurnitureManager\obj\Debug\FurnitureManager.View.UserForm.resources
+E:\pt faculta\ps\SecondAssigment\SecondAssigment\FurnitureManager\FurnitureManager\bin\Debug\FurnitureManager.exe
+E:\pt faculta\ps\SecondAssigment\SecondAssigment\FurnitureManager\FurnitureManager\bin\Debug\FurnitureManager.pdb
+E:\pt faculta\ps\SecondAssigment\SecondAssigment\FurnitureManager\FurnitureManager\bin\Debug\MySql.Data.Entity.EF5.dll
+E:\pt faculta\ps\SecondAssigment\SecondAssigment\FurnitureManager\FurnitureManager\bin\Debug\MySql.Data.Entity.EF6.dll
+E:\pt faculta\ps\SecondAssigment\SecondAssigment\FurnitureManager\FurnitureManager\bin\Debug\MySql.Data.Entity.EF5.xml
+E:\pt faculta\ps\SecondAssigment\SecondAssigment\FurnitureManager\FurnitureManager\bin\Debug\MySql.Data.Entity.EF6.xml
